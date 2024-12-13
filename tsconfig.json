@@ -1,9 +1,10 @@
 {
   "compilerOptions": {
+    "declaration": true,
     "module": "commonjs",
     "outDir": "dist",
     "strict": true,
-    "target": "es2022"
+    "target": "ESNext"
   },
   "include": ["./src/**/*"]
 }
