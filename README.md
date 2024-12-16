@@ -16,15 +16,15 @@ cd typescript-boilerplate
 
 npm install
 
-npm start
+npm run dev
 ```
 
 ## 🛠️ Project Structure
 
 * `.github`
     * `workflows`
+        * `build-and-publish-to-container-registry.yaml`
         * `build-and-publish-to-npm.yaml`
-        * `build-and-publish-docker-image.yaml`
 * `src`
 * `Dockerfile`
 
