@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/hirebarend/boilerplate/blob/main/LICENSE.md">
-    <img src="https://img.shields.io/github/license/hirebarend/boilerplate?label=license&logo=github&color=f80&logoColor=fff" alt="License" />
+  <a href="https://github.com/hirebarend/typescript-boilerplate/blob/main/LICENSE.md">
+    <img src="https://img.shields.io/github/license/hirebarend/typescript-boilerplate?label=license&logo=github&color=f80&logoColor=fff" alt="License" />
   </a>
 </p>
 
