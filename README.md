@@ -54,4 +54,4 @@ We love our contributors! Here's how you can contribute:
 
 ## License
 
-Inspired by [Plausible](https://plausible.io/), Link Bird is open-source under the MIT License. You can [find it here](https://github.com/hirebarend/typescript-boilerplate/blob/main/LICENSE).
+Inspired by [Plausible](https://plausible.io/), TypeScript Boilerplate is open-source under the MIT License. You can [find it here](https://github.com/hirebarend/typescript-boilerplate/blob/main/LICENSE).
