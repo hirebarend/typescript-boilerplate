@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "@types/jest": "^30.0.0",
-    "@types/node": "^22.15.31",
+    "@types/node": "^22.15.32",
     "jest": "^30.0.0",
     "prettier": "^3.5.3",
     "typescript": "^5.8.3"
